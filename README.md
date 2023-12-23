@@ -86,7 +86,8 @@ Write HTML and CSS code for designing book cover page and excute them
 ```
 
 ## Output:
-[output](<../../../Downloads/web front page_files>)
+ ![output](https://github.com/Sarishatheiveegan/cover-page-design/assets/144979465/56dc624f-43bb-43cb-b6ee-2f775c56def0)
+
 
 ## Result:
 Thus the program executed successfully
